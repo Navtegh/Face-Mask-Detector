@@ -1,6 +1,6 @@
 <h1 align="center">Face Mask Detection</h1>
 
-<div align= "center"><img src="https://github.com/stuti2403/Face-Mask-Detector/blob/main/icon.png" width="200" height="200"/>
+<div align= "center"><img src="https://github.com/Navtegh/Face-Mask-Detector/blob/main/icon.png" width="200" height="200"/>
   <h4>Face Mask Detection System built with OpenCV, Keras using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
 </div>
 
